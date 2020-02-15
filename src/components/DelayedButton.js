@@ -2,5 +2,5 @@
 import {Component} from 'react'
 
 class DelayedButton extends Component{
-  
+
 }
