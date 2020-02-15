@@ -3,6 +3,9 @@
 import {Component} from 'react'
 
 class CoordinatesButton extends Component{
+  render(){
+    return <div>cool</div>
+  }
 
 }
 
