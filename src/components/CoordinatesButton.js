@@ -1,6 +1,6 @@
 // Code CoordinatesButton Component Here
 
-import {Component} from 'react'
+import React,{Component} from 'react'
 
 class CoordinatesButton extends Component{
   render(){
