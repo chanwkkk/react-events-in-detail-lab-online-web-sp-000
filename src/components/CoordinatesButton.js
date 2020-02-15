@@ -6,7 +6,7 @@ class CoordinatesButton extends Component{
 
   render(){
     return (
-      <button onClick = {this.props.onReceiveCoordinates}></button>
+      <button onClick = {this.handleClick}></button>
     )
   }
 
